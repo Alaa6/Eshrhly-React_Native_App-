@@ -1,0 +1,12 @@
+{
+  "ui-networkConnectionError": "خطأ في الإتصال",
+  "ui-couldNotLoadImage": "لم يتم تحميل الصورة",
+  "ui-retry": "إعادة المحاولة",
+  "ui-noResultsFound": "لا يوجد نتائج",
+  "ui-close": "إغلاق",
+  "ui-error": "خطأ",
+  "ui-error-happened": "لقد حدث خطأ",
+  "ui-form-error": "خطأ في البيانات",
+  "ui-search-dots": "بحث...",
+  "ui-search": "ابحث..."
+}

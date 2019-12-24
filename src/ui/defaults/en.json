@@ -1,0 +1,12 @@
+{
+  "ui-networkConnectionError": "Netword Connection Error",
+  "ui-couldNotLoadImage": "Could not load image",
+  "ui-retry": "Retry",
+  "ui-noResultsFound": "No Results",
+  "ui-close": "Close",
+  "ui-error": "Error",
+  "ui-error-happened": "Error happened",
+  "ui-form-error": "Error in results",
+  "ui-search-dots": "Search...",
+  "ui-search": "Search..."
+}

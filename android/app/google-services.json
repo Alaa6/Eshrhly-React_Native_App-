@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49008895662",
+    "firebase_url": "https://eshra7ly-9d2cf.firebaseio.com",
+    "project_id": "eshra7ly-9d2cf",
+    "storage_bucket": "eshra7ly-9d2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49008895662:android:d7d24e856c778a4769af3f",
+        "android_client_info": {
+          "package_name": "com.org.newConcept.eshrh_ley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49008895662-gqpg3p3cv1ncoi532ih0dokae37uhrta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutIu_GDmnXoaJXlMHMFpSZ09bFgA1fH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49008895662-gqpg3p3cv1ncoi532ih0dokae37uhrta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
